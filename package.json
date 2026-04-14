@@ -1,0 +1,7 @@
+{
+"name": "vercel-bot-detector",
+"version": "1.0.0",
+"private": true,
+"description": "Bot detection with Vercel serverless function",
+"license": "MIT"
+}
